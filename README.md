@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Lino</h1>
-<h3 align="center">I'm a python/javascript dev</h3>
+<h3 align="center">i'm a javascript dev that loves deep neural nets</h3>
 
 - 🔭 I’m currently working on [Lumikha](https://github.com/s3lftitled/lumikha)
 
