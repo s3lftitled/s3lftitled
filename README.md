@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Lino</h1>
 <h3 align="center">i'm a javascript dev that loves deep neural nets</h3>
 
-- 🔭 I’m currently working on [Lumikha](https://github.com/s3lftitled/lumikha)
+- 🔭 I’m currently building [Lumikha](https://github.com/s3lftitled/lumikha)
 
 - 🌱 I’m currently mastering **Node.js, Machine Learning, and Neural Networks.**
 
