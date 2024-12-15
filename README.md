@@ -24,6 +24,4 @@
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3lftitled&langs_count=10&theme=dark)
 
-![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?s3lftitled=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
