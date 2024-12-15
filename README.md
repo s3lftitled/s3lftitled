@@ -24,4 +24,5 @@
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3lftitled&langs_count=10&theme=dark)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?s3lftitled=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s3lftitled&theme=dracula)
+
