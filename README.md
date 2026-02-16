@@ -100,10 +100,16 @@
 </p>
   
 ## GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=s3lftitled&show_icons=true&hide=prs&count_private=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s3lftitled&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3lftitled&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3lftitled&langs_count=10&theme=dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s3lftitled&theme=react-dark&hide_border=true"/>
+</p>
+
 
 ## Contribution Graph
 ![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s3lftitled&theme=dracula)
