@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Lino</h1>
+<h1 align="center">hi 👋, i'm john lino</h1>
 <h3 align="center">i'm a junior full stack software engineer</h3>
 
 - 🔭 i’m currently building [Halimuyak PH](https://github.com/s3lftitled/halimuyak)
