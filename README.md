@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm John Lino</h1>
-<h3 align="center">i'm a javascript dev that loves deep neural nets</h3>
+<h3 align="center">i'm a junior full stack software engineer</h3>
 
-- 🔭 I’m currently building [Halimuyak PH](https://github.com/s3lftitled/halimuyak)
+- 🔭 i’m currently building [Halimuyak PH](https://github.com/s3lftitled/halimuyak)
 
-- 🌱 I’m currently mastering **Node.js, Machine Learning, and Neural Networks.**
+- 🌱 i’m currently mastering **javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/s3lftitled](https://github.com/s3lftitled)
+- 👨‍💻 all of my projects are available at [https://github.com/s3lftitled](https://github.com/s3lftitled)
 
-- 💬 Ask me about **react, node.js and machine learning**
+- 💬 ask me about **javascript and machine learning**
 
-- 📫 How to reach me **jjaviendemonteverde@gmail.com**
+- 📫 how to reach me **jjaviendemonteverde@gmail.com**
 
 <p align="left">
 </p>
