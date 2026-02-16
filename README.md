@@ -98,19 +98,9 @@
 </a> 
 
 </p>
-  
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s3lftitled&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3lftitled&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
 
-## Top Languages
+## Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=s3lftitled&theme=react-dark&hide_border=true"/>
 </p>
-
-
-## Contribution Graph
-![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s3lftitled&theme=dracula)
 
