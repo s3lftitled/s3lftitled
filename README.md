@@ -1,22 +1,27 @@
-<h1 align="center">hi 👋, i'm john lino</h1>
-<h3 align="center">i'm a junior full stack software engineer</h3>
+<h1 align="center">john lino</h1>
+<h3 align="center">junior full stack software engineer</h3>
 
-- 🔭 i’m currently building [Halimuyak PH](https://github.com/s3lftitled/halimuyak)
-
-- 🌱 i’m currently mastering **javascript**
-
-- 👨‍💻 all of my projects are available at [https://github.com/s3lftitled](https://github.com/s3lftitled)
-
-- 💬 ask me about **javascript and machine learning**
-
-- 📫 how to reach me **jjaviendemonteverde@gmail.com**
-
-<p align="left">
+<p align="center">
+<code>building</code> &nbsp;·&nbsp;
+<code>learning</code> &nbsp;·&nbsp;
+<code>iterating</code>
 </p>
 
-![](https://komarev.com/ghpvc/?username=s3lftitled)
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+💬 ask me about <strong>javascript & machine learning</strong><br/>
+📫 jjaviendemonteverde@gmail.com
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=s3lftitled" />
+</p>
+
+---
+
+<h3 align="left">Languages and Tools</h3>
+
 <p align="left"> 
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -83,8 +88,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a> 
 
-<!-- Added Tools -->
-
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> 
 </a> 
@@ -99,8 +102,10 @@
 
 </p>
 
-## Contribution Graph
+---
+
+<h3 align="center">Contribution Graph</h3>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=s3lftitled&theme=react-dark&hide_border=true"/>
 </p>
-
