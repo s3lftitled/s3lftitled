@@ -2,9 +2,7 @@
 <h3 align="center">junior full stack software engineer</h3>
 
 <p align="center">
-<code>building</code> &nbsp;·&nbsp;
-<code>learning</code> &nbsp;·&nbsp;
-<code>iterating</code>
+<code>folie à deux</code>
 </p>
 
 <br/>
